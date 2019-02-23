@@ -13,9 +13,7 @@ body {
   
 }
 
-.container {
-  display: 
-}
+
 
 .logo {
   display: flex;
@@ -187,7 +185,7 @@ p.description {
 .imgregister {
   display: block;
   margin: 0 auto;
-  vertical-align: middle;
+ 
   padding: 50px 50px;
   width: 45%;
   opacity: .8;
@@ -238,7 +236,6 @@ p.location {
 iframe {
  width: 50%;
   margin: 0 auto;
-  vertical-align: middle;
   padding: 10px 10px;
   display: block;
 }
@@ -252,7 +249,7 @@ iframe {
 }
 
  a.email {
-    color: ;
+   
     text-decoration: none;
     font-weight: bold;
     text-align: center;
@@ -269,7 +266,7 @@ iframe {
   padding: 20px;
 }
    
-  }
+  
      
 .fa {
   padding: 10px;
